@@ -61,3 +61,10 @@ This project represents a more complex system involving multiple actors and inte
 ## 📎 Notes
 
 These projects are part of my ongoing learning journey in data modelling and database design. Feedback is welcome.
+
+## 🎓 University Registration System – Activity Diagram
+<img width="682" height="685" alt="University-Activty-Diagram" src="https://github.com/user-attachments/assets/2c933adb-2b73-46af-8a5c-46789624f0ab" />
+
+This activity diagram models the workflow of the university registration process, showing the sequence of actions from student registration through to system validation and course confirmation.
+
+It complements the use case diagram by focusing on process flow, decision points, and system behaviour.
