@@ -68,3 +68,11 @@ These projects are part of my ongoing learning journey in data modelling and dat
 This activity diagram models the workflow of the university registration process, showing the sequence of actions from student registration through to system validation and course confirmation.
 
 It complements the use case diagram by focusing on process flow, decision points, and system behaviour.
+## Recent additions 
+
+### Passenger Service System 
+different versions of the UML activity and case diagrams exploring passenger workflow and operations
+### University Stetem 
+Iterative UML designs demonstrsting workglow and system improvements.
+### Blog System 
+Multiple activity flow designa modeling blog creating pulvish and delete processes. 
